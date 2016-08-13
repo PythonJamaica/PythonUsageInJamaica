@@ -1,4 +1,4 @@
-# PythonUsageInJamaica
+# Python Usage In Jamaica
 A project to measure PythonUsage in Jamaica.
 
 ## Goal
